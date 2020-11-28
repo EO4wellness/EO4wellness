@@ -1,4 +1,4 @@
-### Hi there 👋
+## The Road to Code, isn't built over night. 
 ![Image of Thank You](https://upload.wikimedia.org/wikipedia/commons/2/25/Thank-you-word-cloud.jpg)
 Thank you for visiting my GitHub profile page.  
 
