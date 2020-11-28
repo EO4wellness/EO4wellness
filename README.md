@@ -1,7 +1,7 @@
 ## The Road to Code, isn't built over night. 
 <p>Hello there!  Welcome to my journey to code.</p>
 
-![Polyglot Welcome Image](https://previews.123rf.com/images/martinffff/martinffff1803/martinffff180300331/98405440-word-welcome-in-different-languages-illustration.jpg)
+![Polyglot Welcome Image](https://galswhocode.files.wordpress.com/2020/11/polyglot-welcome-eo4wellness.jpg)
  
 
 - 🔭 I’m currently working on building my skill set. My personal tag is, "The Road to Code isn't Built in a Day!" I began my GitHub account September 23, 2019.
