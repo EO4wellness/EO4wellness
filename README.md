@@ -2,7 +2,7 @@
 <p>Hello there!  Welcome to my journey to code.</p>
 
 ![Polyglot Welcome Image](https://galswhocode.files.wordpress.com/2020/11/polyglot-welcome-eo4wellness.jpg)
-<center>![visitors](https://visitor-badge.glitch.me/badge?page_id=EO4wellness.visitor-badge)</center>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EO4wellness.visitor-badge)
 
 - 🔭 I’m currently working on building my skill set. My personal tag is, "The Road to Code isn't Built in a Day!" I began my GitHub account September 23, 2019.
 - 🌱 I’m currently enrolled in and learning at Udacity within Phase 2 of the Hybrid Cloud Nanodegree program on the Nutatix Scholarship. Previously, I studied Deep Learning A.I. with Udacity on the Bartlesmann Phase 1 and Phase 2 Scholarship of 2019 and 2020.  Previously, I earned a B.A. and B.S., and have been a life-long learner ever since. My passion in life, amoung other things, is following my incredible sense of interest in learning new things. 
