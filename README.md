@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=EO4wellness)](https://github.com/EO4wellness/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness)](https://github.com/EO4wellness/github-readme-stats)
 ![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=EO4wellness&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
