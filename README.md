@@ -5,6 +5,7 @@ Hello there!  Welcome to my journey to code. ![visitors](https://visitor-badge.g
 
 ## About EO4Wellness: 
 - 🔭 I’m currently working on building my skill set. My personal tag is, "The Road to Code isn't Built in a Day!" I began my GitHub account September 23, 2019.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness&layout=compact)](https://github.com/EO4wellness/github-readme-stats)
 - 🌱 I’m currently enrolled in and learning at Udacity within Phase 2 of the Hybrid Cloud Nanodegree program on the Nutatix Scholarship. Previously, I studied Deep Learning A.I. with Udacity on the Bartlesmann Phase 1 and Phase 2 Scholarship of 2019 and 2020.  Previously, I earned a B.A. and B.S., and have been a life-long learner ever since. My passion in life, amoung other things, is following my incredible sense of interest in learning new things. 
 - 👯 I’m looking to collaborate in order to build my skills in both working on various projects and teamwork. 
 ![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=EO4wellness&show_icons=true&theme=cobalt)
