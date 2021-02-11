@@ -1,5 +1,6 @@
 ## The Road to Code, isn't built over night. 
-Hello there!  Welcome to my journey to code. ![visitors](https://visitor-badge.glitch.me/badge?page_id=EO4wellness.visitor-badge)
+Hello there!  Welcome to my journey to code. 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=EO4wellness.visitor-badge)
 
 ![Polyglot Welcome Image](https://galswhocode.files.wordpress.com/2020/11/polyglot-welcome-eo4wellness.jpg)
 
