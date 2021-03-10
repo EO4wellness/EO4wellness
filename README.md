@@ -8,7 +8,7 @@ Hello there!  Welcome to my journey to code.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness&layout=compact)](https://github.com/EO4wellness/github-readme-stats)
 - 🔭 I’m currently working on building my skill set. My personal tag line at GitHub is, "The Road to Code isn't Built in a Day!" 
 - ⚡ Fun fact: I began my GitHub account September 23, 2019.
-- 🌱 I’m currently enrolled in FreeCodeCamp studies.  I also study at Udacity. 
+- 🌱 I’m currently studying with FreeCodeCamp, devChallenges, and Udacity. 
 - 👯 I’m looking to learn enough code to do some basic collab and team work. I'm just getting started with LeetCode.  
 ![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=EO4wellness&show_icons=true&theme=cobalt) <br>
 - 💬 I enjoy daily language studies, as well as coding study. 
