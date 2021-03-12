@@ -16,6 +16,10 @@ Hello there!  Welcome to my journey to code.
 <!--
 **EO4wellness/EO4wellness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://codepen.io/EO4Wellness
+https://www.linkedin.com/in/eo4wellness/
+https://twitter.com/EO4wellness
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
