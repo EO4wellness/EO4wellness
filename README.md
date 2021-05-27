@@ -13,6 +13,7 @@ Ahoj, vitaj!
 Hallo, willkommen!
 Ciao benvenuto!
 Salve
+हैलो आपका स्वागत है!
 Dobrý den, vítejte!
 Aloha, aloha mai! 
 Hej välkommen!
