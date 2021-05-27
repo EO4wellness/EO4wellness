@@ -1,8 +1,25 @@
 ## The Road to Code, isn't built over night. 
 Hello there!  Welcome to my journey to code. 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EO4wellness.visitor-badge)
-
-![Polyglot Welcome Image](https://galswhocode.files.wordpress.com/2020/11/polyglot-welcome-eo4wellness.jpg)
+```
+Hello and welcome! 
+Helo, croeso!
+Hallo velkommen!
+こんにちはようこそ！
+העלא, באַגריסן!
+مرحبا أهلا وسهلا! 
+Bonjour bienvenue!
+Ahoj, vitaj!
+Hallo, willkommen!
+Ciao benvenuto!
+Salve
+Dobrý den, vítejte!
+Aloha, aloha mai! 
+Hej välkommen!
+Γεια σας Καλωσορίσατε!
+Hola bienvenidos
+Dia duit, fáilte!
+```
 
 ## About EO4Wellness: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness&layout=compact)](https://github.com/EO4wellness/github-readme-stats)
