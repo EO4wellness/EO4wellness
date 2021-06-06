@@ -37,7 +37,6 @@ Dia duit, fáilte!
 [LinkedIn](https://www.linkedin.com/in/eo4wellness/) |
 [Twitter](https://twitter.com/EO4wellness)
 
-![https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9)
 
 <!--
 **EO4wellness/EO4wellness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
