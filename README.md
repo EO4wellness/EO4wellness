@@ -35,12 +35,12 @@ Dia duit, fáilte!
 - 📚 While studying with [Udacity Scholarship](https://www.udacity.com/scholarships) I was challenged to maintain a daily [TIL(today-I-learned)](https://github.com/EO4wellness/T-I-L) repo. Udacity is one of my very favorite places to learn new tech online!  
 
 [Daily.Dev](https://app.daily.dev/EO4Wellness) | 
-[FreeCodeCamp](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9)
-[SoloLearn](https://www.sololearn.com/profile/15619122)
+[FreeCodeCamp](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9) | 
+[SoloLearn](https://www.sololearn.com/profile/15619122) | 
 [CodePen](https://codepen.io/EO4Wellness) |
 [LinkedIn](https://www.linkedin.com/in/eo4wellness/) | 
-[DuoLingo](https://www.duolingo.com/profile/EO4wellness)
-[Twitter](https://twitter.com/EO4wellness)
+[DuoLingo](https://www.duolingo.com/profile/EO4wellness) | 
+[Twitter](https://twitter.com/EO4wellness) | 
 
 
 <!--
