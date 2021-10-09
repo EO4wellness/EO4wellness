@@ -24,14 +24,15 @@ Dia duit, fáilte!
 
 ## About EO4Wellness: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness&layout=compact)](https://github.com/EO4wellness/github-readme-stats)
-- 🔭 I’m currently working on building my skills. 
-- 😍 My personal tag line at GitHub is, "The Road to Code isn't Built in a Day!" 
+- 🔭 I’m currently working on building my tecnical skill set. 
+- 😍 My tag: "The Road to Code isn't Built in a Day!" and nothing worth obtaining can be sourced quickly.  Life-long learning and consistency pay off in the end. 
 - ⚡ Fun fact: I began my GitHub account September 23, 2019.
-- 🌱 I’m currently studying with FreeCodeCamp, devChallenges, and Udacity. 
+- 🌱 I’m currently studying with FreeCodeCamp, Sololearn, and [#GrowWithGoogle](https://grow.google/). 
 - 👯 I’m looking to learn enough code to do some basic collab and team work.  
 ![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=EO4wellness&show_icons=true&theme=cobalt) <br>
-- 💬 I enjoy daily language studies, as well as coding study. 
-- ⚡ Fun facts-I enjoy being a "jack of all trades" sort of person. As such, I've volunteered and/or worked in a wide variety of industries, roles, and used a wide-variety of skills.  Unfortunately, eventually I was hit by a few tragedies which I have worked hard to overcome! 
+- 💬 In addition to learning coding, I enjoy cultural studies as well as learning new [languages](https://github.com/EO4wellness/Polyglot-Studies).
+- ⚡ Fun facts-I enjoy being a "jack of all trades" sort of person. As such, I've volunteered and/or worked in a wide variety of industries, roles, and used a wide-variety of skills.  Unfortunately, I was hit by a several different tragedies, which I have worked hard to overcome! 
+- 📚 While studying with [Udacity Scholarship](https://www.udacity.com/scholarships) I was challenged to maintain a daily [TIL(today-I-learned)](https://github.com/EO4wellness/T-I-L) repo. Udacity is one of my very favorite places to learn new tech online!  
 
 [CodePen](https://codepen.io/EO4Wellness) |
 [LinkedIn](https://www.linkedin.com/in/eo4wellness/) |
