@@ -19,7 +19,7 @@ My super power?  I enjoy bridging the gap between departments, stakeholders, cul
 *   Documentation, process mapping, operational clarity
 
 ## 🛠️ Frameworks & Tools
-*   **PM Frameworks:  PMBOK (8th ed), Agile, Scrum, Kaban, Hybrid, Waterfall 
+*   **PM Frameworks**:  PMBOK (8th ed), Agile, Scrum, Kaban, Hybrid, Waterfall 
 *   **PM Tools**: Jira, Confluence, GitHub Projects, Trello, Microsoft 365, Google Workspace
 *   **Technical Foundations**: Git workflows, SQL basics, SDLC familiarity, CI/CD pipeline awareness, API & integration concepts
 
