@@ -10,8 +10,6 @@ My super power?  I enjoy bridging the gap between departments, stakeholders, cul
 - 💬 I enjoy internationalization.
 - 🤔 Quirky fact: I've been hooked on tech since I built my first, rudimentary, computer in grade school. I used light bulbs, switches, and machine language. I was an early adopter of Basic, Fortran, WordPress, AI.
 
-![Top Langs](https://vercel.app)
-
 ---
 
 ## 🎯 Current Focus
