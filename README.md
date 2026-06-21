@@ -1,46 +1,40 @@
-## The Road to Code, isn't built over night. 
-Hello there!  Welcome to my journey to code. 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EO4wellness.visitor-badge)
-```
-Hello and welcome! 
-Helo, croeso!
-Hallo velkommen!
-こんにちはようこそ！
-העלא, באַגריסן!
-مرحبا أهلا وسهلا! 
-Bonjour bienvenue!
-Ahoj, vitaj!
-Hallo, willkommen!
-Ciao benvenuto!
-Salve
-हैलो आपका स्वागत है!
-Dobrý den, vítejte!
-Aloha, aloha mai! 
-Hej välkommen!
-Γεια σας Καλωσορίσατε!
-Hola bienvenidos
-Dia duit, fáilte!
-```
+# 👋 Hi, I'm Dawn | Tech-Literate Project Manager
 
-## About EO4Wellness: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO4wellness&layout=compact)](https://github.com/EO4wellness/github-readme-stats)
-- 🔭 I’m currently working on building my tecnical skill set. 
-- 😍 My tag: "The Road to Code isn't Built in a Day!" and nothing worth obtaining can be sourced quickly.  Life-long learning and consistency pay off in the end. 
-- ⚡ Fun fact: I began my GitHub account September 23, 2019.
-- 🌱 I’m currently studying with FreeCodeCamp, Sololearn, and [#GrowWithGoogle](https://grow.google/). 
-- 👯 I’m looking to learn enough code to do some basic collab and team work.  
-![github stats EO4wellness](https://github-readme-stats.vercel.app/api?username=EO4wellness&show_icons=true&theme=cobalt) <br>
-- 💬 In addition to learning coding, I enjoy cultural studies as well as learning new [languages](https://github.com/EO4wellness/Polyglot-Studies).
-- ⚡ Fun facts-I enjoy being a "jack of all trades" sort of person. As such, I've volunteered and/or worked in a wide variety of industries, roles, and used a wide-variety of skills.  Unfortunately, I was hit by a several different tragedies, which I have worked hard to overcome! 
-- 📚 While studying with [Udacity Scholarship](https://www.udacity.com/scholarships) I was challenged to maintain a daily [TIL(today-I-learned)](https://github.com/EO4wellness/T-I-L) repo. Udacity is one of my very favorite places to learn new tech online!  
+My super power?  I enjoy bridging the gap between departments, stakeholders, cultures, people, work styles & individual learning styles to accomplish objectives as well as providing deliverables on time and within budget. I'm confortable with agile boards, documentation, process mapping and anything that helps keep the team aligned and moving forward towards project completion. Currently, I'm preparing evidence for the PMP exam application and focusing on incorporating the new PMBOK 8.0 process. I’m likes clear processes, clean communication, and teams that know what’s happening and why.   
 
-[Daily.Dev](https://app.daily.dev/EO4Wellness) | 
+## About me: 
+- 🔭 I’m currently working on Google's Project Management certification with Coursera, then obtaining PMP certification.  While obtaining the certifications are new to me, project management is not. 
+- 😍 My tag: "The Road to Code isn't Built in a Day!" and nothing worth obtaining can be sourced quickly.  Life-long learning and consistency are fundamental to me.  
+- ⚡ Fun fact: I began my GitHub account September 23, 2019. My hobbies include Karaoke (friends nicknamed me "Bumble Bee" after the transformer character due to knowing song lyrics).  I enjoy styding 26+ languages & completed 4.  I enjoy physical fitness, pilates, yoga, tai chi. 
+- 👯 I’m open to collaboration with others. It is one of my favorite parts about GitHub. 
+- 💬 I enjoy internationalization.
+- 🤔 Quirky fact: I've been hooked on tech since I built my first, rudimentary, computer in grade school. I used light bulbs, switches, and machine language. I was an early adopter of Basic, Fortran, WordPress, AI.
+
+![Top Langs](https://vercel.app)
+
+---
+
+## 🎯 Current Focus
+*   PM Frameworks 
+*   Workflow design and cross-team communicaiton 
+*   Technical literacy for PMs
+*   Documentation, process mapping, operational clarity
+
+## 🛠️ Frameworks & Tools
+*   **PM Frameworks:  PMBOK (8th ed), Agile, Scrum, Kaban, Hybrid, Waterfall 
+*   **PM Tools**: Jira, Confluence, GitHub Projects, Trello, Microsoft 365, Google Workspace
+*   **Technical Foundations**: Git workflows, SQL basics, SDLC familiarity, CI/CD pipeline awareness, API & integration concepts
+
+
+## A Bit of History: 
+I completed several structured programs in Python, Tensor Flow, AI, ML, and deep learning through Udacity and other online learning platforms. These repos remain archived here as part of my learning history and reflect my long-term commitment to structured, consistent study.
+
+[Credly](https://www.credly.com/users/dawn-hyatt.4025e863/badges#credly) |
+[DuoLingo](https://duome.eu/eo4wellness) | 
 [FreeCodeCamp](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9) | 
+[Google Dev](https://g.dev/EO4wellness) |
+[LinkedIn](https://www.linkedin.com/in/dmhyatt/) | 
 [SoloLearn](https://www.sololearn.com/profile/15619122) | 
-[CodePen](https://codepen.io/EO4Wellness) |
-[LinkedIn](https://www.linkedin.com/in/eo4wellness/) | 
-[DuoLingo](https://www.duolingo.com/profile/EO4wellness) | 
-[Twitter](https://twitter.com/EO4wellness) | 
 
 
 <!--
