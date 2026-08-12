@@ -27,13 +27,13 @@ My super power?  I enjoy bridging the gap between departments, stakeholders, cul
 ## A Bit of History: 
 I completed several structured programs in Python, Tensor Flow, AI, ML, and deep learning through Udacity and other online learning platforms. These repos remain archived here as part of my learning history and reflect my long-term commitment to structured, consistent study.
 
+[AWS Profile](https://skillsprofile.skillbuilder.aws/user/dawn_hyatt/) |
 [Credly](https://www.credly.com/users/dawn-hyatt.4025e863/badges#credly) |
-[DuoLingo](https://duome.eu/eo4wellness) | 
+[DuoLingo](https://www.duolingo.com/profile/EO4wellness) | 
 [FreeCodeCamp](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9) | 
 [Google Dev](https://g.dev/EO4wellness) |
 [LinkedIn](https://www.linkedin.com/in/dmhyatt/) | 
 [SoloLearn](https://www.sololearn.com/profile/15619122) | 
-
 
 <!--
 **EO4wellness/EO4wellness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
